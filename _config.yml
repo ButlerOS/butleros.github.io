@@ -1,0 +1,10 @@
+title: ButlerOS Website
+subtitle: ButlerOS
+description: Self-built smart home environment
+author: ButlerOS bot
+url: https://butleros.github.io
+use_logo: true
+logo: images/logo.png
+favicon: images/favicon.ico
+github_button_location_below_title: true
+theme: jekyll-theme-minimal
